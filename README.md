@@ -1,2 +1,3 @@
-# ui5-fiorii
+# ui5-fiori
+
 ui5 splitapp
